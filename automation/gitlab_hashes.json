@@ -3,14 +3,16 @@
         "build": "gitlab-ee",
         "versions": [
             "16.5.0-ee.0",
-            "16.5.1-ee.0"
+            "16.5.1-ee.0",
+            "16.5.2-ee.0"
         ]
     },
     "deeef002fddf6f74357454676107b4ec50cf51f70394f2368f404683f1884132": {
         "build": "gitlab-ce",
         "versions": [
             "16.5.0-ce.0",
-            "16.5.1-ce.0"
+            "16.5.1-ce.0",
+            "16.5.2-ce.0"
         ]
     },
     "f79ed5a6b0dfecf39281aeefcdd5b15d7cc6d871a3ae20e60c40d6a718377704": {
