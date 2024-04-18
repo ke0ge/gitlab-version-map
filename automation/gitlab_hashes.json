@@ -1,4 +1,16 @@
 {
+    "05a4322b27a3352f9638610b6a2528a03f90070a19fdb9e0499bb0412aad92fb": {
+        "build": "gitlab-ee",
+        "versions": [
+            "16.11.0-ee.0"
+        ]
+    },
+    "539db0d62ee9e10949bac79127c082aaa0e8d001ddda9467cd8a1d05928a9b8b": {
+        "build": "gitlab-ce",
+        "versions": [
+            "16.11.0-ce.0"
+        ]
+    },
     "58ebcd8f96ecc2ebf7f29122395e38ee28dc833dfc6d08fb667d2655da971df6": {
         "build": "gitlab-ee",
         "versions": [
